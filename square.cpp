@@ -11,7 +11,6 @@ int main(){
            cout<<"*";
         }
         cout<<"\n";
-        cout<<"The number to be printed is "
     }}
     return 0;
 }
